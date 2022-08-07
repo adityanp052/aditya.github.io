@@ -866,7 +866,7 @@ footer {
   }
 
   .exhibitions__gallery {
-    display: block;
+    display: inline-table;
   }
 
   .exhibitions__gallery article {
